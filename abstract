@@ -1,0 +1,10 @@
+## 2. Abstract
+
+In emergency medical situations, immediate access to a patient's medical history and rapid blood donor coordination can be the difference between life and death.
+**HealthVault** is a comprehensive healthcare platform designed to solve these critical delays. It provides a localized, secure system where patients can store
+emergency medical data (allergies, blood group, conditions) accessible via a physical **QR Code**. When scanned by emergency responders or hospitals, it provides
+instant, read-only access to vital profiles even if the patient is unconscious. Furthermore, the system integrates a novel **Emergency Priority Engine** built with
+Python, which algorithmically scores blood supply requests (0-100) based on medical urgency (e.g., Accident vs. Elective Surgery) and broadcasts SMS alerts to 
+compatible donors using Twilio. This project bridges the gap between patient data accessibility and real-time emergency resource allocation.
+
+**GitHub Repository:**https://github.com/githu833/my-first-repo/new/main
